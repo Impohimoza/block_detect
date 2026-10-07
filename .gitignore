@@ -1,3 +1,8 @@
 block-detection-1/
 train_result/
 new_block_detection-1/
+weights/
+train_result_new_data/
+runs/
+new_block_detection-2/
+yolov*.pt
